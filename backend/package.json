@@ -4,23 +4,17 @@
   "description": "booking system backend",
   "main": "server.js",
   "scripts": {
+    "start": "nodemon server.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/PrabothSandaruwan/Booking_System.git"
   },
-  "author": "praoth",
+  "author": "praboth",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/PrabothSandaruwan/Booking_System/issues"
   },
-  "homepage": "https://github.com/PrabothSandaruwan/Booking_System#readme",
-  "dependencies": {
-    "cors": "^2.8.5",
-    "dotenv": "^16.4.5",
-    "express": "^4.19.2",
-    "mongodb": "^6.8.0",
-    "nodemon": "^3.1.4"
-  }
+  "homepage": "https://github.com/PrabothSandaruwan/Booking_System#readme"
 }
